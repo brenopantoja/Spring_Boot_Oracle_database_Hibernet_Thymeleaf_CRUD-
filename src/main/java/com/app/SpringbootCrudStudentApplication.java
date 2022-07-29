@@ -39,8 +39,7 @@ public class SpringbootCrudStudentApplication implements CommandLineRunner{
 		repo.save(s1);
 		repo.save(s2);
 		repo.save(s3);
-		repo.save(s4);
-*/		
+		repo.save(s4);*/	
 	}
 
 }

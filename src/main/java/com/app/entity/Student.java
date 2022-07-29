@@ -25,6 +25,17 @@ public class Student {
 	private String email;
 	
 	
+	public Student(String name, String adddress, String email) {
+		// TODO Auto-generated constructor stub
+		super();
+		this.name=name;
+		this.address=address;
+		this.email=email;
+		
+	}
+	public Student() {
+		// TODO Auto-generated constructor stub
+	}
 	public int getId() {
 		return id;
 	}
