@@ -18,7 +18,7 @@ API has 4 pages.
 
 Return of datas:
 
-System has return all the datass and It can delete, add or update all the information.
+System has return all the datas and It can delete, add or update all the information.
 
 Join it!
 
