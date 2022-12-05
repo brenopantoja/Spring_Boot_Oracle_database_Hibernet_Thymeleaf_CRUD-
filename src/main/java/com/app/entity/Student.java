@@ -36,6 +36,7 @@ public class Student {
 	public Student() {
 		// TODO Auto-generated constructor stub
 	}
+
 	public int getId() {
 		return id;
 	}
@@ -60,7 +61,5 @@ public class Student {
 	public void setEmail(String email) {
 		this.email = email;
 	}
-
-	
 	
 }
